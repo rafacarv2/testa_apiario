@@ -1,0 +1,1 @@
+Favor inserir os arquivos em um servidor php no mesmo servidor local onde o API ARIO está rodando
